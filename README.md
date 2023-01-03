@@ -3,8 +3,6 @@
 
 I'm Called Gilda✨ React Developer|Web Developer| Python Dev | GDSC Event Lead | Volunteer GDG Buea | WTM Organizer 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on expanding my web skills
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on Open source projects

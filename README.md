@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**NyentiPrecious/NyentiPrecious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Called Gilda✨ React Developer|Web Developer| Python Dev | GDSC Event Lead | Volunteer GDG Buea | WTM Organizer 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on expanding my web skills
+- 🌱 I’m currently learning PHP
+- 👯 I’m looking to collaborate on Open source projects
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+- https://twitter.com/NyentiPrecious
+- https://www.linkedin.com/in/nyenti-precious-gilda/
+- 😄 Pronouns: she/she
+- ⚡ Fun fact: i like music and eru😄
+
